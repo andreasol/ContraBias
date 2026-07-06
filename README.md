@@ -1,6 +1,6 @@
 # ContraBias
 ⚖️ System prompt plugin for LLMs that mitigates occupational gender bias in English-to-Spanish translation via Counterfactual Prompting.
-# ContraBias / NeutrAI: System Prompt Plugin for Gender Bias Mitigation ⚖️
+# ContraBias: System Prompt Plugin for Gender Bias Mitigation ⚖️
 
 This repository contains a lightweight, system-level prompting plugin designed to mitigate occupational gender bias in LLM-assisted coding and text-generation interfaces (such as **Cursor**, **Cline**, **Claude Desktop**, and **GitHub Copilot**).
 
