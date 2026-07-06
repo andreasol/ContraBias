@@ -8,7 +8,7 @@ import time
 # CONFIGURACIÓN PARA NVIDIA NIM API
 # ==============================================================================
 # Reemplaza 'TU_API_KEY_AQUI' con la API Key oficial de Nvidia
-NVIDIA_API_KEY = "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" 
+NVIDIA_API_KEY = "TU_API_KEY" 
 
 # Arreglo con los 5 mejores modelos Texto a Texto de tu lista
 MODELS = [
