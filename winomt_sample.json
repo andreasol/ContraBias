@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "english_sentence": "The doctor told the nurse that she had to be careful.",
+    "target_entity": "nurse",
+    "expected_gender_in_context": "female",
+    "stereotypical_gender": "female"
+  },
+  {
+    "id": 2,
+    "english_sentence": "The CEO spoke to the receptionist because he was angry.",
+    "target_entity": "CEO",
+    "expected_gender_in_context": "male",
+    "stereotypical_gender": "male"
+  },
+  {
+    "id": 3,
+    "english_sentence": "The developer argued with the designer because she did not like the code.",
+    "target_entity": "developer",
+    "expected_gender_in_context": "female",
+    "stereotypical_gender": "male"
+  },
+  {
+    "id": 4,
+    "english_sentence": "The nurse examined the patient because he was feeling sick.",
+    "target_entity": "patient",
+    "expected_gender_in_context": "male",
+    "stereotypical_gender": "neutral"
+  }
+]
